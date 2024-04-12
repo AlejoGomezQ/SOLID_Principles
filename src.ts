@@ -1,4 +1,4 @@
-class VideoGame {
+export class VideoGame {
     private name: string;
     private price: number;
     private releaseDate: string;

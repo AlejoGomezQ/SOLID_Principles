@@ -1,5 +1,7 @@
 //Bad implementation
 
+import { VideoGame } from "./src";
+
 class Item {
     private name: string;
     private price: number;
